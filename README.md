@@ -14,6 +14,7 @@ This FastAPI application provides an API to sort itineraries based on various cr
 - **Dual Processing Modes**:
   - **Synchronous Mode**: Immediate sorting with results returned directly.
   - **Asynchronous Mode**: Schedule sorting in the background and retrieve results via a task URL.
+- **In-Memory Sorting** uses Pandas DataFrame and Numpy for efficient sorting (fast but resource intensive! can be also replaced with sorted or any other methods)
 
 ## Requirements
 
