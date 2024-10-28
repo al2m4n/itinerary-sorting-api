@@ -1,0 +1,807 @@
+{
+  "sorting_type": "best",
+  "price_weight": 0.5,
+  "duration_weight": 0.5,
+  "itineraries": [
+    {
+      "id": "itinerary_1",
+      "duration_minutes": 336,
+      "price": {
+        "amount": "2763",
+        "currency": "CZK"
+      }
+    },
+    {
+      "id": "itinerary_2",
+      "duration_minutes": 245,
+      "price": {
+        "amount": "9335",
+        "currency": "JPY"
+      }
+    },
+    {
+      "id": "itinerary_3",
+      "duration_minutes": 403,
+      "price": {
+        "amount": "1355",
+        "currency": "GBP"
+      }
+    },
+    {
+      "id": "itinerary_4",
+      "duration_minutes": 406,
+      "price": {
+        "amount": "9942",
+        "currency": "AUD"
+      }
+    },
+    {
+      "id": "itinerary_5",
+      "duration_minutes": 105,
+      "price": {
+        "amount": "7511",
+        "currency": "AUD"
+      }
+    },
+    {
+      "id": "itinerary_6",
+      "duration_minutes": 144,
+      "price": {
+        "amount": "3360",
+        "currency": "AUD"
+      }
+    },
+    {
+      "id": "itinerary_7",
+      "duration_minutes": 226,
+      "price": {
+        "amount": "8051",
+        "currency": "CAD"
+      }
+    },
+    {
+      "id": "itinerary_8",
+      "duration_minutes": 108,
+      "price": {
+        "amount": "8179",
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "itinerary_9",
+      "duration_minutes": 315,
+      "price": {
+        "amount": "3199",
+        "currency": "CAD"
+      }
+    },
+    {
+      "id": "itinerary_10",
+      "duration_minutes": 204,
+      "price": {
+        "amount": "2510",
+        "currency": "CZK"
+      }
+    },
+    {
+      "id": "itinerary_11",
+      "duration_minutes": 437,
+      "price": {
+        "amount": "1670",
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "itinerary_12",
+      "duration_minutes": 212,
+      "price": {
+        "amount": "3479",
+        "currency": "AUD"
+      }
+    },
+    {
+      "id": "itinerary_13",
+      "duration_minutes": 385,
+      "price": {
+        "amount": "1081",
+        "currency": "AUD"
+      }
+    },
+    {
+      "id": "itinerary_14",
+      "duration_minutes": 62,
+      "price": {
+        "amount": "722",
+        "currency": "JPY"
+      }
+    },
+    {
+      "id": "itinerary_15",
+      "duration_minutes": 107,
+      "price": {
+        "amount": "9587",
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "itinerary_16",
+      "duration_minutes": 90,
+      "price": {
+        "amount": "518",
+        "currency": "JPY"
+      }
+    },
+    {
+      "id": "itinerary_17",
+      "duration_minutes": 84,
+      "price": {
+        "amount": "4665",
+        "currency": "JPY"
+      }
+    },
+    {
+      "id": "itinerary_18",
+      "duration_minutes": 359,
+      "price": {
+        "amount": "652",
+        "currency": "JPY"
+      }
+    },
+    {
+      "id": "itinerary_19",
+      "duration_minutes": 295,
+      "price": {
+        "amount": "3195",
+        "currency": "CZK"
+      }
+    },
+    {
+      "id": "itinerary_20",
+      "duration_minutes": 223,
+      "price": {
+        "amount": "8922",
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "itinerary_21",
+      "duration_minutes": 83,
+      "price": {
+        "amount": "7411",
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "itinerary_22",
+      "duration_minutes": 251,
+      "price": {
+        "amount": "4646",
+        "currency": "AUD"
+      }
+    },
+    {
+      "id": "itinerary_23",
+      "duration_minutes": 378,
+      "price": {
+        "amount": "6985",
+        "currency": "GBP"
+      }
+    },
+    {
+      "id": "itinerary_24",
+      "duration_minutes": 354,
+      "price": {
+        "amount": "5002",
+        "currency": "CAD"
+      }
+    },
+    {
+      "id": "itinerary_25",
+      "duration_minutes": 368,
+      "price": {
+        "amount": "2301",
+        "currency": "AUD"
+      }
+    },
+    {
+      "id": "itinerary_26",
+      "duration_minutes": 474,
+      "price": {
+        "amount": "9635",
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "itinerary_27",
+      "duration_minutes": 232,
+      "price": {
+        "amount": "1503",
+        "currency": "JPY"
+      }
+    },
+    {
+      "id": "itinerary_28",
+      "duration_minutes": 264,
+      "price": {
+        "amount": "3169",
+        "currency": "GBP"
+      }
+    },
+    {
+      "id": "itinerary_29",
+      "duration_minutes": 466,
+      "price": {
+        "amount": "1771",
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "itinerary_30",
+      "duration_minutes": 228,
+      "price": {
+        "amount": "8511",
+        "currency": "AUD"
+      }
+    },
+    {
+      "id": "itinerary_31",
+      "duration_minutes": 433,
+      "price": {
+        "amount": "7928",
+        "currency": "AUD"
+      }
+    },
+    {
+      "id": "itinerary_32",
+      "duration_minutes": 129,
+      "price": {
+        "amount": "9773",
+        "currency": "JPY"
+      }
+    },
+    {
+      "id": "itinerary_33",
+      "duration_minutes": 429,
+      "price": {
+        "amount": "982",
+        "currency": "GBP"
+      }
+    },
+    {
+      "id": "itinerary_34",
+      "duration_minutes": 344,
+      "price": {
+        "amount": "583",
+        "currency": "CAD"
+      }
+    },
+    {
+      "id": "itinerary_35",
+      "duration_minutes": 346,
+      "price": {
+        "amount": "979",
+        "currency": "GBP"
+      }
+    },
+    {
+      "id": "itinerary_36",
+      "duration_minutes": 237,
+      "price": {
+        "amount": "7374",
+        "currency": "JPY"
+      }
+    },
+    {
+      "id": "itinerary_37",
+      "duration_minutes": 195,
+      "price": {
+        "amount": "2922",
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "itinerary_38",
+      "duration_minutes": 240,
+      "price": {
+        "amount": "5465",
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "itinerary_39",
+      "duration_minutes": 403,
+      "price": {
+        "amount": "4032",
+        "currency": "CZK"
+      }
+    },
+    {
+      "id": "itinerary_40",
+      "duration_minutes": 320,
+      "price": {
+        "amount": "3764",
+        "currency": "CAD"
+      }
+    },
+    {
+      "id": "itinerary_41",
+      "duration_minutes": 426,
+      "price": {
+        "amount": "5549",
+        "currency": "GBP"
+      }
+    },
+    {
+      "id": "itinerary_42",
+      "duration_minutes": 403,
+      "price": {
+        "amount": "1026",
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "itinerary_43",
+      "duration_minutes": 200,
+      "price": {
+        "amount": "5686",
+        "currency": "JPY"
+      }
+    },
+    {
+      "id": "itinerary_44",
+      "duration_minutes": 405,
+      "price": {
+        "amount": "3510",
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "itinerary_45",
+      "duration_minutes": 112,
+      "price": {
+        "amount": "4414",
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "itinerary_46",
+      "duration_minutes": 155,
+      "price": {
+        "amount": "6496",
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "itinerary_47",
+      "duration_minutes": 376,
+      "price": {
+        "amount": "8883",
+        "currency": "CAD"
+      }
+    },
+    {
+      "id": "itinerary_48",
+      "duration_minutes": 159,
+      "price": {
+        "amount": "991",
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "itinerary_49",
+      "duration_minutes": 207,
+      "price": {
+        "amount": "533",
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "itinerary_50",
+      "duration_minutes": 474,
+      "price": {
+        "amount": "5567",
+        "currency": "CAD"
+      }
+    },
+    {
+      "id": "itinerary_51",
+      "duration_minutes": 121,
+      "price": {
+        "amount": "8959",
+        "currency": "AUD"
+      }
+    },
+    {
+      "id": "itinerary_52",
+      "duration_minutes": 136,
+      "price": {
+        "amount": "3716",
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "itinerary_53",
+      "duration_minutes": 376,
+      "price": {
+        "amount": "2786",
+        "currency": "AUD"
+      }
+    },
+    {
+      "id": "itinerary_54",
+      "duration_minutes": 450,
+      "price": {
+        "amount": "3998",
+        "currency": "AUD"
+      }
+    },
+    {
+      "id": "itinerary_55",
+      "duration_minutes": 114,
+      "price": {
+        "amount": "130",
+        "currency": "AUD"
+      }
+    },
+    {
+      "id": "itinerary_56",
+      "duration_minutes": 462,
+      "price": {
+        "amount": "2344",
+        "currency": "AUD"
+      }
+    },
+    {
+      "id": "itinerary_57",
+      "duration_minutes": 348,
+      "price": {
+        "amount": "8341",
+        "currency": "AUD"
+      }
+    },
+    {
+      "id": "itinerary_58",
+      "duration_minutes": 341,
+      "price": {
+        "amount": "1820",
+        "currency": "CAD"
+      }
+    },
+    {
+      "id": "itinerary_59",
+      "duration_minutes": 449,
+      "price": {
+        "amount": "800",
+        "currency": "JPY"
+      }
+    },
+    {
+      "id": "itinerary_60",
+      "duration_minutes": 317,
+      "price": {
+        "amount": "1017",
+        "currency": "AUD"
+      }
+    },
+    {
+      "id": "itinerary_61",
+      "duration_minutes": 228,
+      "price": {
+        "amount": "4322",
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "itinerary_62",
+      "duration_minutes": 268,
+      "price": {
+        "amount": "1792",
+        "currency": "JPY"
+      }
+    },
+    {
+      "id": "itinerary_63",
+      "duration_minutes": 83,
+      "price": {
+        "amount": "3610",
+        "currency": "CAD"
+      }
+    },
+    {
+      "id": "itinerary_64",
+      "duration_minutes": 261,
+      "price": {
+        "amount": "7274",
+        "currency": "AUD"
+      }
+    },
+    {
+      "id": "itinerary_65",
+      "duration_minutes": 174,
+      "price": {
+        "amount": "4692",
+        "currency": "JPY"
+      }
+    },
+    {
+      "id": "itinerary_66",
+      "duration_minutes": 315,
+      "price": {
+        "amount": "340",
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "itinerary_67",
+      "duration_minutes": 69,
+      "price": {
+        "amount": "2204",
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "itinerary_68",
+      "duration_minutes": 454,
+      "price": {
+        "amount": "7223",
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "itinerary_69",
+      "duration_minutes": 87,
+      "price": {
+        "amount": "2281",
+        "currency": "JPY"
+      }
+    },
+    {
+      "id": "itinerary_70",
+      "duration_minutes": 176,
+      "price": {
+        "amount": "1115",
+        "currency": "JPY"
+      }
+    },
+    {
+      "id": "itinerary_71",
+      "duration_minutes": 375,
+      "price": {
+        "amount": "1209",
+        "currency": "CAD"
+      }
+    },
+    {
+      "id": "itinerary_72",
+      "duration_minutes": 435,
+      "price": {
+        "amount": "1885",
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "itinerary_73",
+      "duration_minutes": 197,
+      "price": {
+        "amount": "7653",
+        "currency": "GBP"
+      }
+    },
+    {
+      "id": "itinerary_74",
+      "duration_minutes": 118,
+      "price": {
+        "amount": "6256",
+        "currency": "AUD"
+      }
+    },
+    {
+      "id": "itinerary_75",
+      "duration_minutes": 470,
+      "price": {
+        "amount": "5834",
+        "currency": "GBP"
+      }
+    },
+    {
+      "id": "itinerary_76",
+      "duration_minutes": 97,
+      "price": {
+        "amount": "1132",
+        "currency": "AUD"
+      }
+    },
+    {
+      "id": "itinerary_77",
+      "duration_minutes": 312,
+      "price": {
+        "amount": "4280",
+        "currency": "CZK"
+      }
+    },
+    {
+      "id": "itinerary_78",
+      "duration_minutes": 167,
+      "price": {
+        "amount": "6705",
+        "currency": "CAD"
+      }
+    },
+    {
+      "id": "itinerary_79",
+      "duration_minutes": 443,
+      "price": {
+        "amount": "8873",
+        "currency": "CZK"
+      }
+    },
+    {
+      "id": "itinerary_80",
+      "duration_minutes": 149,
+      "price": {
+        "amount": "7417",
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "itinerary_81",
+      "duration_minutes": 238,
+      "price": {
+        "amount": "7913",
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "itinerary_82",
+      "duration_minutes": 324,
+      "price": {
+        "amount": "9479",
+        "currency": "GBP"
+      }
+    },
+    {
+      "id": "itinerary_83",
+      "duration_minutes": 169,
+      "price": {
+        "amount": "1939",
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "itinerary_84",
+      "duration_minutes": 457,
+      "price": {
+        "amount": "7655",
+        "currency": "GBP"
+      }
+    },
+    {
+      "id": "itinerary_85",
+      "duration_minutes": 73,
+      "price": {
+        "amount": "531",
+        "currency": "CZK"
+      }
+    },
+    {
+      "id": "itinerary_86",
+      "duration_minutes": 238,
+      "price": {
+        "amount": "6250",
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "itinerary_87",
+      "duration_minutes": 333,
+      "price": {
+        "amount": "8563",
+        "currency": "CAD"
+      }
+    },
+    {
+      "id": "itinerary_88",
+      "duration_minutes": 79,
+      "price": {
+        "amount": "9088",
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "itinerary_89",
+      "duration_minutes": 333,
+      "price": {
+        "amount": "3343",
+        "currency": "AUD"
+      }
+    },
+    {
+      "id": "itinerary_90",
+      "duration_minutes": 272,
+      "price": {
+        "amount": "6751",
+        "currency": "JPY"
+      }
+    },
+    {
+      "id": "itinerary_91",
+      "duration_minutes": 220,
+      "price": {
+        "amount": "2995",
+        "currency": "AUD"
+      }
+    },
+    {
+      "id": "itinerary_92",
+      "duration_minutes": 138,
+      "price": {
+        "amount": "2855",
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "itinerary_93",
+      "duration_minutes": 394,
+      "price": {
+        "amount": "646",
+        "currency": "CAD"
+      }
+    },
+    {
+      "id": "itinerary_94",
+      "duration_minutes": 335,
+      "price": {
+        "amount": "7012",
+        "currency": "JPY"
+      }
+    },
+    {
+      "id": "itinerary_95",
+      "duration_minutes": 388,
+      "price": {
+        "amount": "1827",
+        "currency": "JPY"
+      }
+    },
+    {
+      "id": "itinerary_96",
+      "duration_minutes": 108,
+      "price": {
+        "amount": "3307",
+        "currency": "AUD"
+      }
+    },
+    {
+      "id": "itinerary_97",
+      "duration_minutes": 217,
+      "price": {
+        "amount": "8791",
+        "currency": "CZK"
+      }
+    },
+    {
+      "id": "itinerary_98",
+      "duration_minutes": 410,
+      "price": {
+        "amount": "8412",
+        "currency": "CZK"
+      }
+    },
+    {
+      "id": "itinerary_99",
+      "duration_minutes": 378,
+      "price": {
+        "amount": "3391",
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "itinerary_100",
+      "duration_minutes": 311,
+      "price": {
+        "amount": "5042",
+        "currency": "AUD"
+      }
+    }
+  ]
+}

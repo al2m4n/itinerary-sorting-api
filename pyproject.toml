@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "sort-itineraries"
+version = "0.1.0"
+description = ""
+authors = ["al2m4n <al2m4n@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = "^0.115.3"
+uvicorn = "^0.32.0"
+pandas = "^2.2.3"
+numpy = "^2.1.2"
+pydantic = "^2.9.2"
+currencyconverter = "^0.17.33"
+asyncio = "^3.4.3"
+pytest = "^8.3.3"
+setuptools = "^75.2.0"
+redis = "^5.2.0"
+dramatiq = {extras = ["redis"], version = "^1.17.1"}
+asgiref = "^3.8.1"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest-asyncio = "^0.24.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
